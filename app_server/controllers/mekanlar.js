@@ -56,7 +56,7 @@ const mekanBilgisi = function (req, res, next) {
             }
 
         ],
-        "imkanlar": ["Kahve","Masa Oyunları"],
+        "imkanlar": ["Kahve ", "Masa Oyunları"],
         "koordinatlar":{
             "enlem":"37.7",
             "boylam":"30.5"
